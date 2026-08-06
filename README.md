@@ -170,5 +170,5 @@ web:
 ## Installation & Run
 
 1. web
- gitchemist.netlify.app
+ [![Live Demo](https://img.shields.io/badge/🌐_Open_gitgot-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://gitchemist.netlify.app)
 2 apk
