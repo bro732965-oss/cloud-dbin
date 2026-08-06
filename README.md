@@ -7,4 +7,3 @@
 [![Open gitgot](https://custom-icon-badges.demolab.com/badge/Open_gitgot-FF6B6B.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiNGRjZCNkIiLz48L3N2Zz4=)](https://gitchemist.netlify.app)
 
 
-[![Open gitgot](https://custom-icon-badges.demolab.com/badge/Open_gitgot-FF6B6B.svg?logo=data:image/svg+xml;base64,<ТВОЯ_ИКОНКА_В_BASE64>&logoColor=white)](https://gitchemist.netlify.app)
