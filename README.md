@@ -14,7 +14,9 @@
 - 💸 **Donations** — link your CloudTips wallet and receive donations
 - 🖼 **Avatar** — automatically generated from username via picsum.photos
 - 🗑 **Delete messages** — permanently remove messages from the system
-
+1. web
+ [![Live Demo](https://img.shields.io/badge/🌐_Open_gitgot-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://gitchemist.netlify.app)
+2 apk
 ## How it works
 
 ### Registration
@@ -169,6 +171,3 @@ web:
 
 ## Installation & Run
 
-1. web
- [![Live Demo](https://img.shields.io/badge/🌐_Open_gitgot-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://gitchemist.netlify.app)
-2 apk
